@@ -1,0 +1,41 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Portifolio de Imagens</title>
+    </head>
+    <body>
+        <h1>Meu Portifolio</h1>
+        <h2>Galeria de Fotos</h2>
+        
+        <!-- Imagem 1 -->
+        <figure>
+            <img src="{% static 'img/starry-sky.jpg' %}" width="400" height="300">
+        </figure>
+        <figcaption>
+             Noite Estrelada de Vincent Van Gogh é exibida no Museu de Arte Moderna de Nova York.<br>
+            É uma das pinturas mais famosas do mundo ocidental. A pintura foi feita em 1889 e retrata a cidade de Saint-Remy sob o sol rodopiante.<br>
+            Está no MoMA em Nova York desde 1941. A pintura foi concluída após o famoso colapso mental de Van Gogh em 1888, no qual o artista havia removido sua própria orelha.
+        </figcaption>
+
+        <!-- Imagem 2 -->
+        <figure>
+            <img src="{% static 'img/grafite.jpg' %}" width="400" height="300">
+        </figure>
+        <figcaption>
+            Alemão tem o dom do grafite e quebra conceitos no cenário da arte urbana mundial.<br>
+            O artista brasileiro está a dar cartas dentro e fora do Brasil com os seus personagens grafitados.<br>
+            O poder criativo do artista alcançou já mais de 25 países e fez com que as suas obras fossem por duas vezes expostas no aclamado Museu do Louvre, em Paris, França.
+        </figcaption>
+
+        <!-- Imagem 3 -->
+        <figure>
+            <img src="{% static 'img/mona-lisa.jpg' %}" width="400" height="300">
+        </figure>
+        <figcaption>
+            “O lançamento do Open Content marcará uma nova etapa na política de digitalização do Paris Musées”, afirmou a instituição em comunicado oficial.<br>
+            “Isso contribuirá para melhorar a forma como nossas coleções são disponibilizadas e fortalecerá as medidas tomadas para garantir acesso do público à arte e cultura, além de aumentar a visibilidade e o entendimento das obras em nossas coleções”.
+        </figcaption>
+    </body>
+</html>
