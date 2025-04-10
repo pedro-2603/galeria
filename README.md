@@ -22,22 +22,9 @@ O projeto foi criado para compartilhar um pouco da beleza e complexidade das obr
 Este projeto foi desenvolvido por:
 
 - [Hosana Soares](https://github.com/hosanasoares)  
-- [Pedro Luacas](https://github.com/pedro-2603)
+- [Pedro Lucas](https://github.com/pedro-2603)
 
 Sinta-se à vontade para explorar os perfis e aprender mais sobre seus projetos e contribuições!
 
 ---
 
-## 📸 Preview
-![Noite Estrelada](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/noite-estrelada.jpg)
-*Uma das obras mais icônicas de Van Gogh: A Noite Estrelada.*
-
-## 🔥 Obras em destaque
-![Terraço do Café à Noite](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/terraço-café-noite.jpg)  
-*Terraço do Café à Noite*  
-![A Vinha Encarnada](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/vinha-encarnada.jpg)  
-*A Vinha Encarnada*  
-![Girassóis](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/girassois.jpg)  
-*Girassóis*  
-![Os Comedores de Batata](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/comedores-batata.jpg)  
-*Os Comedores de Batata*
