@@ -8,7 +8,7 @@ O **Museu de Van Gogh** é um espaço dedicado à imersão no mundo artístico d
 O projeto foi criado para compartilhar um pouco da beleza e complexidade das obras de Van Gogh com o mundo. Cada imagem é uma janela para o estilo único e as emoções intensas que ele imprimiu em cada tela.
 
 ## 🚀 Funcionalidades
-✅ Exibição das principais obras de Van Gogh 🎨    
+✅ Exibição das principais obras de Van Gogh 🎨  
 ✅ Navegação fácil e intuitiva 👨‍🎨  
 
 ## 🛠️ Tecnologias Utilizadas
@@ -40,6 +40,4 @@ Sinta-se à vontade para explorar os perfis e aprender mais sobre seus projetos 
 ![Girassóis](https://upload.wikimedia.org/wikipedia/commons/0/01/Van_Gogh_-_Vase_with_Fifteen_Sunflowers.jpg)  
 *Girassóis*  
 ![Os Comedores de Batata](https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Potato_Eaters_%28Van_Gogh_painting%29.jpg)  
-*Os Comedores de Batata*  
-
-
+*Os Comedores de Batata*
