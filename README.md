@@ -1,7 +1,5 @@
 # 🎨 Museu de Van Gogh 🖼️
 
-![Van Gogh Banner](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/van-gogh-banner.jpg)
-
 ## 🔍 Sobre
 O **Museu de Van Gogh** é um espaço dedicado à imersão no mundo artístico do pintor Vincent van Gogh. Através desta página, exploramos algumas das obras mais emblemáticas do artista, oferecendo uma visão detalhada sobre sua vida e estilo. Aqui, você encontrará uma seleção de suas pinturas mais famosas, para apreciar sua genialidade e legado artístico.
 
