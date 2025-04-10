@@ -1,6 +1,6 @@
 # 🎨 Museu de Van Gogh 🖼️
 
-![Van Gogh Banner](https://upload.wikimedia.org/wikipedia/commons/a/a1/Van_Gogh_-_Self-Portrait_with_Gray_Felt_Hat.jpg)
+![Van Gogh Banner](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/van-gogh-banner.jpg)
 
 ## 🔍 Sobre
 O **Museu de Van Gogh** é um espaço dedicado à imersão no mundo artístico do pintor Vincent van Gogh. Através desta página, exploramos algumas das obras mais emblemáticas do artista, oferecendo uma visão detalhada sobre sua vida e estilo. Aqui, você encontrará uma seleção de suas pinturas mais famosas, para apreciar sua genialidade e legado artístico.
@@ -29,15 +29,15 @@ Sinta-se à vontade para explorar os perfis e aprender mais sobre seus projetos 
 ---
 
 ## 📸 Preview
-![Noite Estrelada](https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg/448px-Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg)
+![Noite Estrelada](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/noite-estrelada.jpg)
 *Uma das obras mais icônicas de Van Gogh: A Noite Estrelada.*
 
 ## 🔥 Obras em destaque
-![Terraço do Café à Noite](https://upload.wikimedia.org/wikipedia/commons/a/a2/Vincent_van_Gogh_046.jpg)  
+![Terraço do Café à Noite](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/terraço-café-noite.jpg)  
 *Terraço do Café à Noite*  
-![A Vinha Encarnada](https://upload.wikimedia.org/wikipedia/commons/c/c1/Vincent_van_Gogh_-_The_Red_Vineyard_-_Google_Art_Project.jpg)  
+![A Vinha Encarnada](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/vinha-encarnada.jpg)  
 *A Vinha Encarnada*  
-![Girassóis](https://upload.wikimedia.org/wikipedia/commons/0/01/Van_Gogh_-_Vase_with_Fifteen_Sunflowers.jpg)  
+![Girassóis](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/girassois.jpg)  
 *Girassóis*  
-![Os Comedores de Batata](https://upload.wikimedia.org/wikipedia/commons/7/7d/The_Potato_Eaters_%28Van_Gogh_painting%29.jpg)  
+![Os Comedores de Batata](https://raw.githubusercontent.com/hosanasoares/museu-van-gogh/main/images/comedores-batata.jpg)  
 *Os Comedores de Batata*
