@@ -1,0 +1,55 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sobre a Dupla</title>
+    <link rel="stylesheet" href="{% static 'style2.css' %}">
+</head>
+<body>
+    <header>
+        <img src="{% static 'img/lua.gif' %}" alt="Lua GIF">
+        <h1 class="title">Sobre a Dupla</h1>
+    </header>
+
+    <main>
+
+        <section>
+            <h2 class="text">Nossa Equipe</h2>
+            <div class="about">
+                <figure class="dupla-photo">
+                    <img src="{% static 'img/dupla.jpg' %}" alt="Foto da Dupla">
+                    <figcaption>Aqui estão Hosana Soares & Pedro Lucas, trabalhando juntos para criar esta experiência. Somos uma dupla apaixonada por arte e tecnologia. Este projeto foi criado com o intuito de compartilhar a beleza das obras de Vincent Van Gogh, explorando a arte digital e a interatividade.</figcaption>
+                </figure>
+            </div>
+        </section>
+
+        <section>
+            <h2 class="text"><b>Hosana Soares</b></h2>
+            <div class="about">
+                <figure class="individual-photo">
+                    <img src="{% static 'img/criador1.jpg' %}" alt="Foto do Criador 1">
+                    <figcaption><b>Hosana Soares</b> é <b>Técnica em Informática</b>. Nasceu em 20/09/2007, atualmente estudando no IFCE campus Maranguape, cursando Informática. Apaixonada por pintores impressionista como Van Gogh e renascentista como Leonardo da Vinci, livros, músicas, filmes e séries. Gosta de ler, escrever,  pintar as unhas, escutar música e assistir. Sua contribuição foi essencial para desenvolver as ideias criativas que tornaram este projeto tão especial, proporcionando uma imersão na arte de Van Gogh.</figcaption>
+                </figure>
+
+            </div>
+        </section>
+
+        <section>
+            <h2 class="text"><b>Pedro Lucas</b></h2>
+            <div class="about">
+                <figure class="individual-photo">
+                    <img src="{% static 'img/criador2.jpg' %}" alt="Foto do Criador 2">
+                    <figcaption><b>Pedro Lucas</b> é <b>Técnico em Informática</b>. Nasceu em 26/03/2008, atualmente estudando no IFCE campus Maranguape, cursando Informática. Apaixonado por artistas internacionais como Ariana Grande e Taylor Swift, filmes, séries e moda. Gosta de escutar música, assistir e fazer maquiagem. Sua contribuição foi essencial para desenvolver as ideias criativas que tornaram este projeto tão especial, proporcionando uma imersão na arte de Van Gogh.</figcaption>
+                </figure>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Página dedicada a Vincent Van Gogh e à arte digital</p>
+    </footer>
+</body>
+</html>

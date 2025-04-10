@@ -1,41 +1,99 @@
 {% load static %}
 
 <!DOCTYPE html>
-<html>
-    <head>
-        <title>Portifolio de Imagens</title>
-    </head>
-    <body>
-        <h1>Meu Portifolio</h1>
-        <h2>Galeria de Fotos</h2>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Museu de Van Gogh</title>
+    <link rel="stylesheet" href="{% static 'style.css' %}">
+</head>
+<body>
+    <header>
+        <img src="{% static 'img/lua.gif' %}" alt="Lua GIF">
+        <h1 class="title">Museu</h1>
+    </header>
+
+    <main>
+        <section>
+           <div>
+            <h2 class="text">Pinturas de Van Gogh</h2>
+           </div>
+        </section>
         
-        <!-- Imagem 1 -->
-        <figure>
-            <img src="{% static 'img/starry-sky.jpg' %}" width="400" height="300">
-        </figure>
-        <figcaption>
-             Noite Estrelada de Vincent Van Gogh é exibida no Museu de Arte Moderna de Nova York.<br>
-            É uma das pinturas mais famosas do mundo ocidental. A pintura foi feita em 1889 e retrata a cidade de Saint-Remy sob o sol rodopiante.<br>
-            Está no MoMA em Nova York desde 1941. A pintura foi concluída após o famoso colapso mental de Van Gogh em 1888, no qual o artista havia removido sua própria orelha.
-        </figcaption>
+        <section>
+            <div class="image">
+                <figure class="img1">
+                    <img src="{% static 'img/noite-estrelada.jpg' %}" alt="Noite Estrelada">
+                    <figcaption>Noite Estrelada</figcaption>
+                </figure>
 
-        <!-- Imagem 2 -->
-        <figure>
-            <img src="{% static 'img/grafite.jpg' %}" width="400" height="300">
-        </figure>
-        <figcaption>
-            Alemão tem o dom do grafite e quebra conceitos no cenário da arte urbana mundial.<br>
-            O artista brasileiro está a dar cartas dentro e fora do Brasil com os seus personagens grafitados.<br>
-            O poder criativo do artista alcançou já mais de 25 países e fez com que as suas obras fossem por duas vezes expostas no aclamado Museu do Louvre, em Paris, França.
-        </figcaption>
+                <figure class="img2">
+                    <img src="{% static 'img/terraço-cafe.jpeg' %}" alt="Terraço do Café na à Noite">
+                    <figcaption>Terraço do Café na à Noite</figcaption>
+                </figure>
 
-        <!-- Imagem 3 -->
-        <figure>
-            <img src="{% static 'img/mona-lisa.jpg' %}" width="400" height="300">
-        </figure>
-        <figcaption>
-            “O lançamento do Open Content marcará uma nova etapa na política de digitalização do Paris Musées”, afirmou a instituição em comunicado oficial.<br>
-            “Isso contribuirá para melhorar a forma como nossas coleções são disponibilizadas e fortalecerá as medidas tomadas para garantir acesso do público à arte e cultura, além de aumentar a visibilidade e o entendimento das obras em nossas coleções”.
-        </figcaption>
-    </body>
+                <figure>
+                    <img src="{% static 'img/quarto.jpeg' %}" alt="O Quarto de Van Gogh em Arles">
+                    <figcaption>O Quarto de Van Gogh em Arles</figcaption>
+                </figure>
+            </div>
+
+            <div class="image2">
+                <figure>
+                    <img src="{% static 'img/amendoeira.jpeg' %}" alt="Amendoeira em Flor">
+                    <figcaption>Amendoeira em Flor</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/auto-retrato.jpeg' %}" alt="Auto-Retrato">
+                    <figcaption>Auto-Retrato</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/campo-trigo.jpeg' %}" alt="Campo de trigo com ciprestes">
+                    <figcaption>Campo de trigo com ciprestes</figcaption>
+                </figure>
+            </div>
+
+            <div class="image3">
+                <figure>
+                    <img src="{% static 'img/comedores.jpeg' %}" alt="Os Comedores de Batata">
+                    <figcaption>Os Comedores de Batata</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/caveira.jpeg' %}" alt="Caveira com Cigarro Aceso">
+                    <figcaption>Caveira com Cigarro Aceso</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/vinha.jpeg' %}" alt="A Vinha Encarnada">
+                    <figcaption>A Vinha Encarnada</figcaption>
+                </figure>
+            </div>
+
+            <div class="image4">
+                <figure>
+                    <img src="{% static 'img/prisioneiro.jpg' %}" alt="A Ronda dos Prisioneiros">
+                    <figcaption>A Ronda dos Prisioneiros</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/noite-estrelada2.jpeg' %}" alt="Noite Estrelada Sobre o Ródano">
+                    <figcaption>Noite Estrelada Sobre o Ródano</figcaption>
+                </figure>
+
+                <figure>
+                    <img src="{% static 'img/girassol.jpeg' %}" alt="Os Girassóis">
+                    <figcaption>Os Girassóis</figcaption>
+                </figure>
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 - Página dedicada a Vincent Van Gogh</p>
+    </footer>
+</body>
 </html>
